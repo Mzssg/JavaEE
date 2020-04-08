@@ -1,0 +1,12 @@
+servlet\registered.class
+servlet\addhomework.class
+servlet\addstudent.class
+servlet\login.class
+model\addhomeworkmodel.class
+model\addstudentmodel.class
+model\loginmodel.class
+servlet\applyhomework.class
+servlet\checkhomework.class
+jdbc\jdbc.class
+model\applymodel.class
+model\user.class
