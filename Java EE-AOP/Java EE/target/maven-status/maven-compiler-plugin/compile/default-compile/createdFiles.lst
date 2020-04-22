@@ -1,0 +1,17 @@
+main\java\model\addhomeworkmodel.class
+main\java\model\loginmodel.class
+main\java\servlet\addstudent.class
+main\java\servlet\checkhomework.class
+main\java\bean\TestBean.class
+main\java\model\applymodel.class
+main\java\spring\TestSpring.class
+main\java\aspect\TestAspect.class
+main\java\servlet\addhomework.class
+main\java\servlet\login.class
+main\java\model\addstudentmodel.class
+main\java\service\JdbcService.class
+main\java\controller\TestController.class
+main\java\servlet\applyhomework.class
+main\java\servlet\registered.class
+main\java\jdbc\jdbc.class
+main\java\model\user.class
