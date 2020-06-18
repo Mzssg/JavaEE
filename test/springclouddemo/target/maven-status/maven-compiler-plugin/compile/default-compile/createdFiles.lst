@@ -1,0 +1,13 @@
+com\example\springbootdemo\model\loginmodel.class
+com\example\springbootdemo\servlet\login.class
+com\example\springbootdemo\servlet\checkhomework.class
+com\example\springbootdemo\servlet\registered.class
+com\example\springbootdemo\model\user.class
+com\example\springbootdemo\model\addstudentmodel.class
+com\example\springbootdemo\model\addhomeworkmodel.class
+com\example\springbootdemo\servlet\addhomework.class
+com\example\springbootdemo\model\applymodel.class
+com\example\springbootdemo\servlet\applyhomework.class
+com\example\springbootdemo\servlet\addstudent.class
+com\example\springbootdemo\SpringbootDemoApplication.class
+com\example\springbootdemo\jdbc\jdbc.class
